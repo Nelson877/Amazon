@@ -1,0 +1,107 @@
+React clone :-
+8:00
+
+stripe
+
+// // Create and Deploy Your First Cloud Functions
+// // https://firebase.google.com/docs/functions/write-firebase-functions
+//
+// exports.helloWorld = functions.https.onRequest((request, response) => {
+// functions.logger.info("Hello logs!", {structuredData: true});
+// response.send("Hello from Firebase!");
+// });
+
+https://lh3.googleusercontent.com/proxy/pS5YaVl_piz-BCTRaxQGyIuVgbBdrFnOZsXbR9mZbsqIiX0W18Hza3jht9PcBU_Vja59NemZwTrOlzu9MKTdl71x5nrRlVIxSt4Y2YDJ1ReknT1VDHgtXr-Gb89RbG7XW28OOjDOjA
+
+Before using stripe you need to put on " Blaze Plan in Firebase ".
+key : (sk_test_51K9zb2DiGUFRrhJxAcn35xqQmgdM30QIPLtSJijPd4RwolEGdJ2sqPpHacQhuPQSyCYhDwVBAEfm1C7IJOCIZBAt00t6Fz8tqT)
+spotify clone
+
+react flip move
+Quary peram
+
+# git clone ( and the link)
+
+# npm install moment-js
+
+# npm install firebase-functions@latest firebase-admin@latest --save
+
+# firebase emulators:start --only functions
+
+# firebase emulators:start
+
+# npm i cors
+
+# npm i express
+
+# npm i axios
+
+# firebase init
+
+# firebase init functions
+
+# npm i @stripe/stripe-js
+
+# npm i @stripe/react-stripe-js
+
+# firebase init hosting
+
+# firebase deploy --only functions [ this means you are going to deploy only the functions that is the server -side.]
+
+# firebase deploy --only hosting
+
+# firebase login
+
+# import firebase from "firebase/compat";
+
+# npm i firebase
+
+# npm install --save firebase
+
+# npm install -g firebase-tools
+
+# npx create-app ...( & the name of your file)
+
+# Install ES7
+
+# npm install @material-ui/core
+
+# npm install @material-ui/icons
+
+# npm i react-currency-format
+
+# npm i react-icons
+
+onSnapshot :- when you puch a value to a database and also remove a value from a database,
+and update a value.
+
+db :- DataBase
+
+useEffect :- is also known was the click event,
+it is also like an IF statement in react.
+
+rfce :- temle
+npm install react-router-dom@5.2.0
+
+? :- optional chaering ( it take off all erorr for you adding something to a basket)
+
+Props - {title , image,.... , .... , ... ect.}
+
+Link to='/' :- to link a page together
+
+React Router - it help to link different pages together[npm install react-router-dom or npx create-react-app demo-app]
+
+- Material -ui :- after installing it you have to import every icons
+  you are going to uses.
+- You import every file you will create into the "App.js" file,
+  and every first letter of the file should ne in uppercase.
+  ex: - [Home.js] the save file.
+  [import Home from './Home'] the import file JS.
+  [import './Home.css] the import style sheet CSS.
+
+- You nameing a class must have a double under quotes.
+  ex:- [className='home__section'] how to name a class.
+
+  https://st2.depositphotos.com/5547208/8113/v/950/depositphotos_81139896-stock-illustration-online-shopping-banner.jpg
+
+  https://i.pinimg.com/originals/39/5c/bd/395cbdc769cbbc96a8d123a5f1f16e80.jpg

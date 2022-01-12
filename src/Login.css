@@ -1,0 +1,71 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #eee;
+  margin-top: 10px;
+}
+
+.logo__logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  object-fit: contain;
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.login__container {
+  width: 300px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  background-color: #fff;
+}
+.login__container > h1 {
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: #01553c;
+  align-items: center;
+  text-align: center;
+}
+.login__container > form > h1 {
+  margin-bottom: 5px;
+}
+.login__container > form > input {
+  height: 30px;
+  margin-bottom: 10px;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #eee;
+  /* border-inline-width: 2px solid #000; */
+  width: 98%;
+}
+.login__container > p {
+  margin-top: 15px;
+  font-size: 12px;
+}
+/* .login__box {
+  padding: 100%;
+} */
+.login__singinButton {
+  background: #01553c;
+  border: 2px solid;
+  height: 30px;
+  width: 100%;
+  margin-top: 10px;
+  border-color: #122721 #01553c #01553c;
+  color: #fff;
+}
+.login__account {
+  margin-top: 10px;
+  text-align: center;
+  color: #377461;
+  text-decoration: none;
+}
+.login__account:hover {
+  text-decoration: underline;
+  /* border-inline: 2px solid #377461; */
+}
